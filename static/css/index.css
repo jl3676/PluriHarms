@@ -119,7 +119,8 @@ body {
     font-weight: 800 !important;
     color: var(--text-primary) !important;
     margin-bottom: 2rem !important;
-    line-height: 1.1 !important;
+    line-height: 1.2 !important;
+    font-size: 2.5rem !important;
 }
 
 .publication-banner {
@@ -747,6 +748,18 @@ a:focus {
     color: var(--text-primary) !important;
     box-shadow: none !important;
   }
+}
+
+/* PLURIHARMS title styling - mimicking LaTeX small caps with letter spacing */
+.pluriharms-title {
+  font-variant: small-caps;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  display: inline-block;
+}
+
+.pluriharms-title span {
+  font-size: 1em;
 }
 
 
