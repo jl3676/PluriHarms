@@ -19,12 +19,12 @@ The dataset and code are available at: [https://github.com/jl3676/PluriHarms-rel
 ## Citation
 
 ```bibtex
-@inproceedings{li2026pluriharms,
-  title={PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm},
-  author={Li, Jing-Jing and Mire, Joel and Fleisig, Eve and Pyatkin, Valentina and Collins, Anne and Sap, Maarten and Levine, Sydney},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2026}
-}
+@article{li2026pluriharms,
+        title={PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm},
+        author={Li, Jing-Jing and Mire, Joel and Fleisig, Eve and Pyatkin, Valentina and Collins, Anne and Sap, Maarten and Levine, Sydney},
+        journal={arXiv preprint arXiv:2601.08951},
+        year={2026}
+      }
 ```
 
 ## Website License
