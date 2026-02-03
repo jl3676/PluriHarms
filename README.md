@@ -8,9 +8,7 @@ This repository contains the project website for PluriHarms.
 
 **PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm**
 
-Accepted to ICLR 2026
-
-[arXiv](https://arxiv.org/abs/2601.08951) | [PDF](https://arxiv.org/pdf/2601.08951)
+Accepted to ICLR 2026 | [PDF](https://arxiv.org/pdf/2601.08951)
 
 ## Data & Code
 
